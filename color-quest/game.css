@@ -1,0 +1,16 @@
+/* normalize */
+body {
+  margin: 0;
+  padding: 0;
+  background: #4a7d8e url(images/web_bg.png) center center repeat-y;
+}
+p {
+  margin: 0;
+  padding: 1em 0;
+}
+
+/* page layout */
+.row {
+  width: 480px;
+  margin: 0 auto;
+}
